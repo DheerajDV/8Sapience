@@ -57,13 +57,6 @@ This module fetches real-time updates from Twitter and Telegram channels and for
 
 ## Monitored Sources
 
-### Twitter Accounts
-- ETMarkets
-- Breakoutrade94
-- Trading4Bucks
-
-### Telegram Channels
-- Configure in config.py
 
 ## Data Structure
 
